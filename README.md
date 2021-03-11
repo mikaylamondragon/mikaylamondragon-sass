@@ -1,5 +1,8 @@
 # Lesson to refactor CSS to SCSS
 
+by Mikayla Mondragon
+Due March 12, 2021
+
 A template to use in learning Sass. See the [ICJ class](https://github.com/utdata/icj-class#sass) for more info.
 
 > Has been updated for Spring 2021.
